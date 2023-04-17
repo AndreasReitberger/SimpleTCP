@@ -182,7 +182,6 @@ namespace SimpleTCP
 			return mReply;
 		}
 
-
 		#region IDisposable Support
 		private bool disposedValue = false; // To detect redundant calls
 
